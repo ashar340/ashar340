@@ -19,7 +19,7 @@ I'm a Polyglot Software Engineer with 4+ years of professional experience with m
 
 My experience is not only limited to working with JavaScript, TypeScript, React, React Native, Next.js, Remix, Node, GraphQL, and gRPC.
 
-I also possess deep technical expertise across the full stack building Microservices, Distributed, Cloud Native, Serverless, Event-Driven Systems, Edge Computing(Cloudfare, Vercel, Netlify), Networking Protocols(HTTP/2 / HTTP/3 / TCP/UDP), and frameworks (gRPC, GraphQL, REST).
+I also possess deep technical expertise across the full stack building Microservices, Distributed, Cloud Native, Serverless, Event-Driven Systems, Edge Computing(Cloudflare, Vercel, Netlify), Networking Protocols(HTTP/2 / HTTP/3 / TCP/UDP), and frameworks (gRPC, GraphQL, REST).
 
 Building cross-platform mobile apps right now - Android & iOS using React Native, State Machines, Rxjs, and Functional Reactive Programming (FRP).
 
