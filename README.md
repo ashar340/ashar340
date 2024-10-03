@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with Statistics
 - 👯 I’m looking to collaborate on ...
--->
+
 
 I'm a Polyglot Software Engineer with 4+ years of professional experience with my primary focus in frontend development (Mobile & Web). 
 
@@ -51,3 +51,5 @@ Want to chat? Let's connect!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+-->
